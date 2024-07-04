@@ -3,7 +3,7 @@ import {ClassRoom} from './0-classroom.js';
 
 export default function initializeRooms(){
     // creating a array to hold the objects
-    // make a loop that will insert a new object created.
+    // make a loop that will insert a new object created in a instance.
     const rooms = [];
     const room_size = [19,20,34];
 

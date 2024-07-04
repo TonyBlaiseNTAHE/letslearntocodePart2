@@ -38,6 +38,6 @@ export default class HolbertonCourse{
             throw new TypeError('Students must be a array of string');
         }
         this._students = students;
-    }
+    } 
 
 }
